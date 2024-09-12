@@ -30,8 +30,8 @@ You'll need API keys for both CrewAI and Gemini LLM. Add them to the .env file i
 
 
 ```bash
-CREWAI_API_KEY=your_crewai_api_key
-GEMINI_API_KEY=your_gemini_api_key
+GOOGLE_API_KEY=your_google_api_key
+SERPER_API_KEY=your_serper_api_key
 
 ```
 4. Run the Application
