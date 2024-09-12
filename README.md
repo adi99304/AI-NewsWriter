@@ -41,5 +41,13 @@ To start the application, use:
 python crew.py
 
 ```
-`
+## API key links
+1) Gemini API
+```http
+https://aistudio.google.com/app/apikey
+```
+2) Google search API
+```http
+https://serper.dev/api-key
+```
 
